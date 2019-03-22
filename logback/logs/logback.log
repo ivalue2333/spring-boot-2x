@@ -1,0 +1,25 @@
+2019-03-22 21:04:14.235  INFO 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : Starting LogbackApplicationTests on DESKTOP-9U8MN6M with PID 13872 (started by 13722 in E:\Java\project\spring-boot-2x\logback)
+2019-03-22 21:04:14.239 DEBUG 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-22 21:04:14.246  INFO 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : No active profile set, falling back to default profiles: default
+2019-03-22 21:04:22.252  INFO 13872 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-22 21:04:23.718  INFO 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : Started LogbackApplicationTests in 10.564 seconds (JVM running for 14.957)
+2019-03-22 21:04:25.046 DEBUG 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : 打印 debug
+2019-03-22 21:04:25.047  INFO 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : 打印 info
+2019-03-22 21:04:25.047  WARN 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : 打印 warn
+2019-03-22 21:04:25.048 ERROR 13872 --- [main] c.i.b.logback.LogbackApplicationTests    : 打印 error
+2019-03-22 21:04:25.081  INFO 13872 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-03-22 21:05:27.799  INFO 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : Starting LogbackApplication on DESKTOP-9U8MN6M with PID 2968 (E:\Java\project\spring-boot-2x\logback\target\classes started by 13722 in E:\Java\project\spring-boot-2x\logback)
+2019-03-22 21:05:27.804 DEBUG 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2019-03-22 21:05:27.805  INFO 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : No active profile set, falling back to default profiles: default
+2019-03-22 21:05:29.284  INFO 2968 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-03-22 21:05:29.342  INFO 2968 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-03-22 21:05:29.342  INFO 2968 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-22 21:05:29.348  INFO 2968 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Program Files\Java\jdk1.8.0_51\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Program Files (x86)\CodeBlocks\MinGW\bin;D:\Program Files\Python37\Scripts\;D:\Program Files\Python37\;D:\Program Files\Java\jdk1.8.0_51\bin;D:\Program Files\Java\jdk1.8.0_51\jre\bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;d:\Program Files\Git\cmd;D:\Program Files\mysql\bin;F:\GraduationDesign\OSG(x86)\bin;C:\WINDOWS\System32\OpenSSH\;D:\Program Files (x86)\Apache Software Foundation\php5.4.8;D:\Program Files (x86)\Apache Software Foundation\Apache2.2\bin;D:\software\node-v10.12.0-win-x64;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\software\cocos2d-x-3.17\templates;D:\software\cocos2d-x-3.17\tools\cocos2d-console\bin;C:\Users\13722\AppData\Local\Microsoft\WindowsApps;;d:\Users\13722\AppData\Local\Programs\Fiddler;.]
+2019-03-22 21:05:29.528  INFO 2968 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-03-22 21:05:29.768  INFO 2968 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-22 21:05:30.074  INFO 2968 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-22 21:05:30.078  INFO 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : Started LogbackApplication in 2.893 seconds (JVM running for 4.161)
+2019-03-22 21:05:30.080 DEBUG 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : 打印 debug
+2019-03-22 21:05:30.080  INFO 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : 打印 info
+2019-03-22 21:05:30.081  WARN 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : 打印 warn
+2019-03-22 21:05:30.081 ERROR 2968 --- [main] c.iotc.boot2.logback.LogbackApplication  : 打印 error

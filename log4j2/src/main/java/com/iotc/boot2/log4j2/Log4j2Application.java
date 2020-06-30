@@ -12,7 +12,6 @@ public class Log4j2Application {
 
 	private static final Logger logger = LogManager.getLogger(Log4j2Application.class);
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(Log4j2Application.class, args);
 		logger.trace("输出trace");

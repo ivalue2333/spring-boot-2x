@@ -23,4 +23,6 @@ public class UserModel {
     private String nickName;
     private String regTime;
     private int age;
+
+
 }
